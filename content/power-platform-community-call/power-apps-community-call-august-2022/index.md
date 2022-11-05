@@ -6,7 +6,7 @@ githubname: PopWarner
 categories: ["Power Apps community call"]
 images:
 - images/powerplatform-august-recording-promo.png
-tags: ["Extensions", "Microsoft 365", "Power Apps"]
+tags: ["SPFx Extensions", "Microsoft 365", "Power Apps"]
 type: "regular"
 summary: "Latest Power Platform related news, events and Community Tip. Demos - Using Forms and Power Automate to Upgrade your Customer Onboarding Experience, Building a Time Sheeting Power Apps canvas app using Dataverse, and Connecting Power Pages to your Dataverse data."
 videos:
@@ -44,12 +44,6 @@ Latest updates and news on Power Platform including community events, training o
 * Demo - Using Microsoft Forms and Microsoft Power Automate to Upgrade your Customer Onboarding Experience – [Mary Myers](https://twitter.com/MaryMyers_WM) (WorldMax) \| @MaryMyers_WM – [12:35](https://youtu.be/_nTwtSKVRzc?t=755)
 * Demo - Building a Time Sheeting Microsoft Power Apps canvas app using Microsoft Dataverse – [Darren Lutchner](https://twitter.com/assist_365) (365 Assist) \| @assist_365 – [30:40](https://youtu.be/_nTwtSKVRzc?t=1840)
 * Demo - Connecting Microsoft Power Pages to your Microsoft Dataverse data – [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh – [41:08](https://youtu.be/_nTwtSKVRzc?t=2468)
-
-## Together Mode
-
-![Attendees waving hands in Microsoft Teams together mode picture](images/Together-Mode-August-2022.gif)
-
-Everybody is looking amazing today. Great to see so many passionate Community contributors. We really appreciate you and all that you do.
 
 ## Actions
 
